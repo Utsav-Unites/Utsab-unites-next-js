@@ -94,7 +94,7 @@ export default function Header() {
             </li>
             <li>
               <Link
-                href="#pujas"
+                href="pujas"
                 className="relative px-4 py-2 text-gray-800 hover:text-indigo-600 dark:text-gray-300 dark:hover:text-indigo-400 transition-colors group"
               >
                 <span>Pujalist</span>
